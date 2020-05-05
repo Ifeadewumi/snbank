@@ -1,2 +1,2 @@
-# BasicBankingSystem
- A simple banking application in Python
+# snbank
+ A simple banking application inPython
