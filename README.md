@@ -1,2 +1,2 @@
 # snbank
- A simple banking application inPython
+ A simple banking application in Python
